@@ -19,5 +19,7 @@ export default {
 </script>
 
 <style lang="less" scoped>
-
+  .hello {
+    color: red
+  }
 </style>
